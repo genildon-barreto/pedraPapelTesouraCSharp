@@ -6,6 +6,7 @@ namespace pedraPapelTesoura
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             Random random = new Random();
 
             int pontuacaoJogador = 0;
