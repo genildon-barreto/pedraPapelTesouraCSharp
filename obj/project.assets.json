@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\Don\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Aulas, Projetos e Mentorias\\Projetos\\Arquivos\\C#\\Projetos em C#\\pedraPapelTesoura\\pedraPapelTesoura.csproj",
+      "projectUniqueName": "D:\\Aulas, Projetos e Mentorias\\Projetos\\GitHub\\pedraPapelTesouraCSharp\\pedraPapelTesoura.csproj",
       "projectName": "pedraPapelTesoura",
-      "projectPath": "H:\\Aulas, Projetos e Mentorias\\Projetos\\Arquivos\\C#\\Projetos em C#\\pedraPapelTesoura\\pedraPapelTesoura.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "H:\\Aulas, Projetos e Mentorias\\Projetos\\Arquivos\\C#\\Projetos em C#\\pedraPapelTesoura\\obj\\",
+      "projectPath": "D:\\Aulas, Projetos e Mentorias\\Projetos\\GitHub\\pedraPapelTesouraCSharp\\pedraPapelTesoura.csproj",
+      "packagesPath": "C:\\Users\\Don\\.nuget\\packages\\",
+      "outputPath": "D:\\Aulas, Projetos e Mentorias\\Projetos\\GitHub\\pedraPapelTesouraCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Don\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.312/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

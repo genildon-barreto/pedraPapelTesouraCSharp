@@ -12,3 +12,18 @@ H:\Aulas, Projetos e Mentorias\Projetos\Arquivos\C#\Projetos em C#\pedraPapelTes
 H:\Aulas, Projetos e Mentorias\Projetos\Arquivos\C#\Projetos em C#\pedraPapelTesoura\obj\Debug\net8.0\pedraPapelTesoura.pdb
 H:\Aulas, Projetos e Mentorias\Projetos\Arquivos\C#\Projetos em C#\pedraPapelTesoura\obj\Debug\net8.0\pedraPapelTesoura.genruntimeconfig.cache
 H:\Aulas, Projetos e Mentorias\Projetos\Arquivos\C#\Projetos em C#\pedraPapelTesoura\obj\Debug\net8.0\ref\pedraPapelTesoura.dll
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\obj\Debug\net8.0\pedraPapelTesoura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\obj\Debug\net8.0\pedraPapelTesoura.AssemblyInfoInputs.cache
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\obj\Debug\net8.0\pedraPapelTesoura.AssemblyInfo.cs
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\obj\Debug\net8.0\pedraPapelTesoura.csproj.CoreCompileInputs.cache
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\obj\Debug\net8.0\pedraPapelTesoura.sourcelink.json
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\obj\Debug\net8.0\pedraPapelTesoura.dll
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\obj\Debug\net8.0\refint\pedraPapelTesoura.dll
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\obj\Debug\net8.0\pedraPapelTesoura.pdb
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\bin\Debug\net8.0\pedraPapelTesoura.exe
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\bin\Debug\net8.0\pedraPapelTesoura.deps.json
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\bin\Debug\net8.0\pedraPapelTesoura.runtimeconfig.json
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\bin\Debug\net8.0\pedraPapelTesoura.dll
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\bin\Debug\net8.0\pedraPapelTesoura.pdb
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\obj\Debug\net8.0\pedraPapelTesoura.genruntimeconfig.cache
+D:\Aulas, Projetos e Mentorias\Projetos\GitHub\pedraPapelTesouraCSharp\obj\Debug\net8.0\ref\pedraPapelTesoura.dll
